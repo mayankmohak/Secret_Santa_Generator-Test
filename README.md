@@ -3,7 +3,11 @@ This repo is build to submit test solution
 
 ### Steps to run
  1. Add sample test files in data folder
- 2. run main class
+ 2. Run main class using below commands.
+    - mvn clean install
+    - java -jar target/mayankmohak-1.0-SNAPSHOT.jar
+ 3. Run Test class using
+    - mvn test
 
 ### Note
  - Unit Test is done in com.secretsanta.SecretSantaAssignerTest
