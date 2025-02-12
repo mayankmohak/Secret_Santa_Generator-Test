@@ -2,7 +2,10 @@
 This repo is build to submit test solution
 
 ### Steps to run
- 1. Add sample test files in data folder
+ 1. clone project or download
+    git clone https://github.com/mayankmohak/Secret_Santa_Generator-Test.git
+ 2. Move into mayankmohak folder.
+    - cd mayankmohak
  2. Run main class using below commands.
     - mvn clean install
     - java -jar target/mayankmohak-1.0-SNAPSHOT.jar
